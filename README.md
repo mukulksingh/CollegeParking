@@ -1,2 +1,3 @@
 # mernapp
-using javascript and react.js.
+using javascript, React.js, Express.js and Node.js.
+
